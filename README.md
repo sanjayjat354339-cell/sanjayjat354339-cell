@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sanjay 👋
 
-<!--
-**sanjayjat354339-cell/sanjayjat354339-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Machine Learning Enthusiast  
+💻 Python Developer  
+🌐 Built and deployed ML web apps  
 
-Here are some ideas to get you started:
+## 🔥 Projects
+- Gold & Silver Price Prediction (Live App)
+  👉 https://gold-silver-price-prediction-33mkwvserlqin569rpk8ly.streamlit.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- Machine Learning
+- Pandas, NumPy
+- Streamlit
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/sanjay-jat-250767346
