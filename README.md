@@ -2,7 +2,8 @@
 
 🚀 Machine Learning Enthusiast  
 💻 Python Developer  
-🌐 Built and deployed ML web apps  
+🌐 Built and deployed machine learning web applications using Streamlit
+💡 Currently building real-world ML projects and exploring Data Science
 
 ## 🔥 Projects
 -Gold & Silver Price Prediction (Live ML Web App with Streamlit)
