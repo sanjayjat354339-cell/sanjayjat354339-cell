@@ -6,7 +6,7 @@
 
 ## 🔥 Projects
 - Gold & Silver Price Prediction (Live App)
-  👉 https://gold-silver-price-prediction-33mkwvserlqin569rpk8ly.streamlit.app
+  👉 https://gold-silver-price-prediction-33mkvwserlqin569rpk8ly.streamlit.app/
 
 ## 🛠 Skills
 - Python
