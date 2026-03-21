@@ -3,6 +3,7 @@
 🚀 Machine Learning Enthusiast  
 💻 Python Developer  
 🌐 Built and deployed machine learning web applications using Streamlit
+
 💡 Currently building real-world ML projects and exploring Data Science
 
 ## 🔥 Projects
