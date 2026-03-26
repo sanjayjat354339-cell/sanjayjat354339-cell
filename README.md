@@ -1,72 +1,72 @@
-# Hi, I'm Sanjay 👋
+👋 Hi, I'm Sanjay
+🎓 B.Tech CSE Student
+💻 Aspiring Data Scientist | AI/ML Enthusiast
+🚀 Building real-world projects with deployment
 
-🚀 Aspiring AI/ML Engineer  
-💻 Python & C++ Developer  
-📊 Passionate about Machine Learning, NLP & Data Science  
+🔥 About Me
 
----
+📊 Building real-world Machine Learning applications
+🤖 Strong interest in AI, NLP, and intelligent systems
+⚡ Experienced in deploying ML projects (Streamlit & Render)
+🎯 Goal: To become a skilled AI/ML Engineer/Data Scientist
 
-## 🧠 About Me
 
-- 🔍 Building real-world Machine Learning applications  
-- 🤖 Strong interest in AI, NLP, and intelligent systems  
-- ⚡ Experienced in deploying ML projects (Streamlit & Render)  
-- 🎯 Goal: To become a skilled AI/ML Engineer  
+🚀 Featured Projects
+🟡 Gold & Silver Price Prediction
+📊 ML-based web app to predict gold & silver prices using historical data
+👉 Live Demo: https://gold-silver-price-prediction-33mkvwserlqin569rpk8ly.streamlit.app/
+🔗 GitHub: https://github.com/sanjayjat354339-cell/gold-silver-price-prediction
+🛠️ Tech: Python, Scikit-learn, Streamlit
 
----
+📊 Trader Sentiment Analysis
+📈 Data analysis project to study trader behavior using market sentiment (Fear & Greed Index)
 
-## 🚀 Featured Projects
+Analyzed impact on profitability, trading frequency, and risk
+Performed data cleaning, merging & visualization
 
-### 🟡 Gold & Silver Price Prediction  
-📊 ML-based web app to predict gold & silver prices using historical data  
+🔗 GitHub: https://github.com/sanjayjat354339-cell/trader-sentiment-analysis
+🛠️ Tech: Python, Pandas, Matplotlib
 
-👉 **Live Demo:** https://gold-silver-price-prediction-33mkvwserlqin569rpk8ly.streamlit.app/  
+📄 Resume Screening AI
+🤖 NLP-based system that predicts job roles from resume text with confidence score
+👉 Live Demo: https://resume-screening-ai-a2fn.onrender.com/
+🔗 GitHub: https://github.com/sanjayjat354339-cell/Resume-Screening-AI
+🛠️ Tech: Python, NLP, Flask, Render
 
----
+🧠 Tech Stack
+💻 Programming
 
-### 📄 Resume Screening AI  
-🤖 NLP-based system that predicts job roles from resume text with confidence score  
+Python
+SQL
 
-👉 **Live Demo:** https://resume-screening-ai-a2fn.onrender.com/
+📊 Data Analysis
 
----
+Pandas
+NumPy
+Matplotlib
+Seaborn
 
-## 🛠️ Tech Stack
+🤖 Machine Learning
 
-### 👨‍💻 Languages
-- Python 🐍  
-- C++ ⚡  
+Scikit-learn
+NLP (Natural Language Processing)
 
-### 🤖 Machine Learning & Data Science
-- Scikit-learn  
-- Pandas, NumPy  
-- Data Visualization  
+🌐 Web & Deployment
 
-### 🌐 Web & Deployment
-- Flask(basics)  
-- Streamlit  
-- Render  
+Flask
+Streamlit
+Render
 
-### 🧠 NLP
-- TF-IDF  
-- Text Preprocessing  
+⚙️ Tools
 
----
+Git & GitHub
+Jupyter Notebook
 
-## 📈 What I'm Working On
 
-- 🔧 Improving ML model accuracy  
-- 📚 Learning Deep Learning (BERT, Neural Networks)  
-- 🚀 Building advanced AI projects  
+📫 Connect With Me
 
----
+LinkedIn: https://www.linkedin.com/in/sanjay-jat-250767346
+GitHub: https://github.com/sanjayjat354339-cell
 
-## 📬 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sanjay-jat-250767346
 
----
-
-## ⭐ Fun Fact
-
-I enjoy turning ideas into real-world AI applications that solve practical problems 🚀
