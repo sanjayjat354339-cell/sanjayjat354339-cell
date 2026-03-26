@@ -21,7 +21,7 @@
 
 ML-based web app to predict gold & silver prices using historical data  
 
-- Live Demo: https://gold-silver-price-prediction-33mkwvserlqin569rpk8ly.streamlit.app/  
+- Live Demo: https://gold-silver-price-prediction-33mkvwserlqin569rpk8ly.streamlit.app/
 - GitHub: https://github.com/sanjayjat354339-cell/gold-silver-price-prediction  
 - Tech: Python, Scikit-learn, Streamlit  
 
@@ -42,7 +42,7 @@ Data analysis project to study trader behavior using market sentiment (Fear & Gr
 
 NLP-based system that predicts job roles from resume text with confidence score  
 
-- Live Demo: https://resume-screening-ai-a2fn.onrender.com/  
+- Live Demo: https://resume-screening-ai-a2fn.onrender.com/
 - GitHub: https://github.com/sanjayjat354339-cell/Resume-Screening-AI  
 - Tech: Python, NLP, Flask, Render  
 
@@ -60,5 +60,5 @@ NLP-based system that predicts job roles from resume text with confidence score
 
 ## 📫 Connect  
 
+- LinkedIn: https://resume-screening-ai-a2fn.onrender.com/
 - GitHub: https://github.com/sanjayjat354339-cell  
-- LinkedIn: (Add your link)
