@@ -8,14 +8,16 @@
 📊 Building real-world Machine Learning applications
 🤖 Strong interest in AI, NLP, and intelligent systems
 ⚡ Experienced in deploying ML projects (Streamlit & Render)
-🎯 Goal: To become a skilled AI/ML Engineer/Data Scientist
+🎯 Goal: To become a skilled AI/ML Engineer / Data Scientist
 
 
 🚀 Featured Projects
 🟡 Gold & Silver Price Prediction
 📊 ML-based web app to predict gold & silver prices using historical data
-👉 Live Demo: https://gold-silver-price-prediction-33mkvwserlqin569rpk8ly.streamlit.app/
-🔗 GitHub: https://github.com/sanjayjat354339-cell/gold-silver-price-prediction
+👉 Live Demo:
+https://gold-silver-price-prediction-33mkwvserlqin569rpk8ly.streamlit.app/
+🔗 GitHub:
+(Add your repo link)
 🛠️ Tech: Python, Scikit-learn, Streamlit
 
 📊 Trader Sentiment Analysis
@@ -24,49 +26,33 @@
 Analyzed impact on profitability, trading frequency, and risk
 Performed data cleaning, merging & visualization
 
-🔗 GitHub: https://github.com/sanjayjat354339-cell/trader-sentiment-analysis
+🔗 GitHub:
+https://github.com/sanjayjat354339-cell/trader-sentiment-analysis
 🛠️ Tech: Python, Pandas, Matplotlib
 
 📄 Resume Screening AI
 🤖 NLP-based system that predicts job roles from resume text with confidence score
-👉 Live Demo: https://resume-screening-ai-a2fn.onrender.com/
-🔗 GitHub: https://github.com/sanjayjat354339-cell/Resume-Screening-AI
+👉 Live Demo:
+https://resume-screening-ai-a2fn.onrender.com/
+🔗 GitHub:
+(Add your repo link)
 🛠️ Tech: Python, NLP, Flask, Render
 
 🧠 Tech Stack
 💻 Programming
-
-Python
-SQL
-
+Python • SQL
 📊 Data Analysis
-
-Pandas
-NumPy
-Matplotlib
-Seaborn
-
+Pandas • NumPy • Matplotlib • Seaborn
 🤖 Machine Learning
-
-Scikit-learn
-NLP (Natural Language Processing)
-
+Scikit-learn • NLP
 🌐 Web & Deployment
-
-Flask
-Streamlit
-Render
-
+Flask • Streamlit • Render
 ⚙️ Tools
-
-Git & GitHub
-Jupyter Notebook
-
+Git • GitHub • Jupyter Notebook
 
 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/sanjay-jat-250767346
 GitHub: https://github.com/sanjayjat354339-cell
-
+LinkedIn: (Add your link)
 
 
