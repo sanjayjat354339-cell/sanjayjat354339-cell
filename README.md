@@ -21,7 +21,7 @@
 
 📊 ML-based web app to predict gold & silver prices using historical data  
 
-- 👉 Live Demo: https://gold-silver-price-prediction-33mkvwserlqin569rpk8ly.streamlit.app/ 
+- 👉 Live Demo: https://gold-silver-price-prediction-33mkvwserlqin569rpk8ly.streamlit.app/
 - 🔗 GitHub: https://github.com/sanjayjat354339-cell/gold-silver-price-prediction  
 - 🛠️ Tech: Python, Scikit-learn, Streamlit  
 
